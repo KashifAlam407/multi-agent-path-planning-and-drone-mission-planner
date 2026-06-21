@@ -310,7 +310,7 @@ Continuously compute:
 
 ---
 
-# DroneKit & PyMAVLink Integration - (I had not integrated this file yet because Lack of Hardware)
+# DroneKit & PyMAVLink Integration - (I had not integrated this file yet because I didn't have access to a Pixhawk or ArduPilot SITL environment during the assignment)
 
 This repository also includes example implementations demonstrating how the same mission can be uploaded to a Pixhawk flight controller using:
 

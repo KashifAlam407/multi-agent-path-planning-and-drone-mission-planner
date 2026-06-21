@@ -1,1 +1,1 @@
-## i don't have hardware so i did not integrate dronekit
+## I didn't have access to a Pixhawk or ArduPilot SITL environment during the assignment, so I am not implimenting this at this time.
