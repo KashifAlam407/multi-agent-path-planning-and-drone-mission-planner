@@ -221,7 +221,7 @@ Agent 3
 ![Q1 Terminal Output](results/terminal1.png)
 ```
 
-![Q1 Terminal Output](terminal1.png)
+![Q1 Terminal Output](results/terminal1.png)
 
 ---
 
