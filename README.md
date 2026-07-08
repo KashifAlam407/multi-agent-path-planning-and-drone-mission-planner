@@ -1,4 +1,4 @@
-# Multi-Agent Path Planning & Autonomous Drone Mission Planner
+# Multi-Agent 3D Path Planning & Autonomous UAV Mission Planner
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" />
@@ -42,7 +42,7 @@ The project was implemented entirely in **Python** with a strong focus on algori
 # 📂 Repository Structure
 
 ```text
-multi-agent-path-planning-and-drone-mission-planner/
+Multi-Agent 3D Path Planning & Autonomous UAV Mission Planner/
 │
 ├── README.md
 ├── requirements.txt
@@ -351,7 +351,7 @@ The mission can be executed either:
 Clone repository:
 
 ```bash
-git clone https://github.com/KashifAlam407/multi-agent-path-planning-and-drone-mission-planner.git
+git clone https://github.com/KashifAlam407/Multi-Agent 3D Path Planning & Autonomous UAV Mission Planner.git
 
 cd multi-agent-path-planning-and-drone-mission-planner
 ```
