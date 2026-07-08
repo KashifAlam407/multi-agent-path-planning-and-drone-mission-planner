@@ -7,9 +7,18 @@
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
 
----
+## Project Overview
 
-## 📌 Overview
+Modern autonomous robots require efficient planning algorithms for navigation and mission execution.
+
+This repository demonstrates two practical robotics planning problems:
+
+1. Multi-Agent Navigation in a weighted 3D environment.
+2. Autonomous UAV mission planning with dynamic waypoint management.
+
+Both projects emphasize algorithm design, visualization, and real-world robotics concepts.
+
+---
 
 1. **Multi-Agent 3D Path Planning**
 
