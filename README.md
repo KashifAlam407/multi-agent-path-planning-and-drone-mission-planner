@@ -1,4 +1,4 @@
-# Vecros Robotics Intern Assignment
+# Multi Agentm Path Planning and Drone Mission Planner
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" />
@@ -10,8 +10,6 @@
 ---
 
 ## 📌 Overview
-
-This repository contains my solutions for the **Vecros Robotics Intern Assignment**, which consists of two robotics-focused problems:
 
 1. **Multi-Agent 3D Path Planning**
 
@@ -45,7 +43,7 @@ The project was implemented entirely in **Python** with a strong focus on algori
 # 📂 Repository Structure
 
 ```text
-Vecros_Robotics_Intern_Assignment/
+multi-agent-path-planning-and-drone-mission-planner/
 │
 ├── README.md
 ├── requirements.txt
@@ -310,7 +308,7 @@ Continuously compute:
 
 ---
 
-# DroneKit & PyMAVLink Integration - (I had not integrated this file yet because I didn't have access to a Pixhawk or ArduPilot SITL environment during the assignment)
+# DroneKit & PyMAVLink Integration - (I had not integrated this file yet because I didn't have access to a Pixhawk or ArduPilot SITL environment)
 
 This repository also includes example implementations demonstrating how the same mission can be uploaded to a Pixhawk flight controller using:
 
@@ -352,9 +350,9 @@ The mission can be executed either:
 Clone repository:
 
 ```bash
-git clone https://github.com/KashifAlam407/Vecros_Robotics_Intern_Assignment.git
+git clone https://github.com/KashifAlam407/multi-agent-path-planning-and-drone-mission-planner.git
 
-cd Vecros_Robotics_Intern_Assignment
+cd multi-agent-path-planning-and-drone-mission-planner
 ```
 
 Install dependencies:
@@ -394,7 +392,7 @@ python Question2/main.py
 
 # Acknowledgements
 
-This project was completed as part of the **Vecros Robotics Internship Assignment** and focuses on practical applications of:
+This project was completed as part of the **Learning** and focuses on practical applications of:
 
 * Path Planning
 * Multi-Agent Systems
@@ -405,7 +403,5 @@ This project was completed as part of the **Vecros Robotics Internship Assignmen
 ---
 
 ## Thank You
-
-I appreciate your time in reviewing this submission.
 
 **Md Kashif Alam**
