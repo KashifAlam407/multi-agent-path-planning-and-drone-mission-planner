@@ -38,15 +38,17 @@ multi-agent-path-planning-and-drone-mission-planner/
 ├── README.md
 ├── requirements.txt
 │
-├── Question1/
+├── multi_agent_path_planner/
 │   ├── main.py
-│   └── screenshots/
+│   └── result/
+│   └── problem.png
 │
-├── Question2/
+├── drone_mission_planner/
 │   ├── main.py
 │   ├── dronekit_example.py
 │   ├── pymavlink_example.py
-│   └── screenshots/
+│   └── result/
+│   └── problem.png
 │
 └── results/
     ├── terminal1.png
@@ -358,13 +360,13 @@ pip install -r requirements.txt
 ### Question 1
 
 ```bash
-python Question1/main.py
+python multi_agent_path_planner/main.py
 ```
 
 ### Question 2
 
 ```bash
-python Question2/main.py
+python drone_mission_planner/main.py
 ```
 
 ---
