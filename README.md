@@ -1,4 +1,4 @@
-# Multi Agentm Path Planning and Drone Mission Planner
+# Multi Agent Path Planning and Drone Mission Planner - GPS navigation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" />
