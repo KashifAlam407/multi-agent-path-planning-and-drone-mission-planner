@@ -30,16 +30,6 @@ The project was implemented entirely in **Python** with a strong focus on algori
 
 ---
 
-# 👨‍💻 Author
-
-**Md Kashif Alam**
-
-* GitHub: https://github.com/KashifAlam407
-* LinkedIn: https://www.linkedin.com/in/md-kashif-alam-a55b19380/
-* Portfolio: https://kashifalam407.github.io/Portfolio/
-
----
-
 # 📂 Repository Structure
 
 ```text
@@ -402,6 +392,12 @@ This project was completed as part of the **Learning** and focuses on practical 
 
 ---
 
-## Thank You
+# 👨‍💻 Author
 
 **Md Kashif Alam**
+
+* GitHub: https://github.com/KashifAlam407
+* LinkedIn: https://www.linkedin.com/in/md-kashif-alam-a55b19380/
+* Portfolio: https://kashifalam407.github.io/Portfolio/
+
+---
