@@ -276,6 +276,10 @@ print()
 print("Agent 3 Path")
 print(path3)
 
+print("======================")
+print(reserved)
+
+
 
 ## 3D Visualization
 ## creating figure
@@ -387,3 +391,4 @@ ax.set_title(
 ax.legend()
 
 plt.show()
+
